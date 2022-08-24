@@ -1,0 +1,26 @@
+{
+  "name": "book_record_management-",
+  "version": "1.0.0",
+  "description": "Book Record Management Server bulid with nodejs and express",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikamAniket/BOOK_RECORD_MANAGEMENT-.git"
+  },
+  "author": "Aniket Nikam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikamAniket/BOOK_RECORD_MANAGEMENT-/issues"
+  },
+  "homepage": "https://github.com/NikamAniket/BOOK_RECORD_MANAGEMENT-#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
